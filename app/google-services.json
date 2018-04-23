@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "158418319767",
+    "firebase_url": "https://lesser-or-greater.firebaseio.com",
+    "project_id": "lesser-or-greater",
+    "storage_bucket": "lesser-or-greater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158418319767:android:6c9b4616acd8e209",
+        "android_client_info": {
+          "package_name": "com.codefordevs.lesserorgreater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158418319767-ot64v76esl6r1m185ptkdh1jjt3le9a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoeZyY8Q2DNREuGmOxSWD_UbpZp-_ruEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
